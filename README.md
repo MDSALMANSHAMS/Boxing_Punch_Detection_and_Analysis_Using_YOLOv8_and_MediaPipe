@@ -1,5 +1,7 @@
 # Boxing Punch Detection and Analysis
 
+![Jab](https://github.com/user-attachments/assets/4ce956c8-0d7f-4c49-b52c-303b6cceb1f7)
+
 ## Introduction
 This project implements deep learning techniques to detect and classify boxing punches using YOLOv8, while integrating 2D pose estimation via MediaPipe to determine punch landing.
 
@@ -33,6 +35,11 @@ This project implements deep learning techniques to detect and classify boxing p
 - Model Performance: Evaluated using precision, recall, and F1-score.
 - Pose Estimation Accuracy: Verified correct keypoint tracking using MediaPipe.
 - Punch Landing Accuracy: Estimated accuracy of punch landing detection.
+
+## Results
+- ![Hook](https://github.com/user-attachments/assets/6a3367f6-5268-4e7f-ae68-b457d06ab50a)
+- ![Jab](https://github.com/user-attachments/assets/d517bad9-962a-4646-a969-072338a9ce03)
+- ![Uppercut](https://github.com/user-attachments/assets/b0eab1f6-03c7-4cbf-94b0-ff072eb8aab6)
 
 ## Conclusion
 This project successfully implemented YOLOv8 for punch classification and MediaPipe for 2D pose estimation, achieving high detection accuracy.
