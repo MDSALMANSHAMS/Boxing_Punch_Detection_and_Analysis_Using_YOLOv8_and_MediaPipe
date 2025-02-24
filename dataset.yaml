@@ -1,0 +1,5 @@
+train: Dataset/train
+val: Dataset/test
+nc: 4 # Number of classes
+names: ["Jab", "Punching bag", "Hook", "Uppercut"] # Class names
+
